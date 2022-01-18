@@ -1,0 +1,6 @@
+.container {
+  background-color: var(--bg-primary);
+}
+.textcolor {
+  color: var(--bg-dark);
+}

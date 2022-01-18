@@ -1,0 +1,12 @@
+.h1color {
+  color: var(--text-primary);
+  margin-bottom: 1.2rem;
+}
+section .link {
+  color: var(--text-primary);
+  text-decoration: none;
+}
+
+section p {
+  color: var(--text-secondary);
+}
